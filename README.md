@@ -1,4 +1,3 @@
-# ALP_Graf_Matematika_Diskrit
 # ALP Matematika Diskrit – Implementasi Teori Graf
 
 Project ini merupakan tugas **ALP (Asesmen Learning Project)** mata kuliah  
@@ -35,9 +34,17 @@ Dokumentasi project.
 ### 2. Install Library
 ```bash
 python3 -m pip install networkx matplotlib
+```
 
 ### 3. Jalankan Program
 ```bash
 python3 afl3_solution.py
+```
 #### Catatan: Program akan menampilkan beberapa window graf.
 #### Tutup window graf untuk melanjutkan ke proses berikutnya.
+
+## Kelompok Blekpink :
+- Michele Stevany Venda Dati (0806022410021)
+- Siti Amirah Nathania Fahreza (0806022410024)
+- Vivian Wijaya (0806022410002)
+- Theofanny Blessing Gladysia Purwanta (0806022410029)
